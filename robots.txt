@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takeahikeprovisions.github.io/temp-demo/sitemap.xml

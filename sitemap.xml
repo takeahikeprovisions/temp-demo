@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>https://takeahikeprovisions.github.io/temp-demo/#products</loc>
+    <lastmod>2017-11-05T09:36:03-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://takeahikeprovisions.github.io/temp-demo/#story</loc>
+    <lastmod>2017-11-05T09:36:03-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://takeahikeprovisions.github.io/temp-demo/#contact</loc>
+    <lastmod>2017-11-05T09:36:03-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://takeahikeprovisions.github.io/temp-demo/#</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://takeahikeprovisions.github.io/temp-demo/#</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://takeahikeprovisions.github.io/temp-demo/#</loc>
+    <lastmod>2017-11-05T09:36:03-08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
